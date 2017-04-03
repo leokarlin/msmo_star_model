@@ -5,11 +5,11 @@ This code is a public implementation of the methods reported in the paper:
 
 L. Karlinsky, J. Shtok, et al. "Fine-grained recognition of thousands of object categories with single-example training", CVPR 2017
 
-# License
+### License
 
 Faster R-CNN is released under the MIT License (refer to the LICENSE file for details).
 
-# Citing this code
+### Citing this code
 
 If you find this code useful in your research, please cite:
 
@@ -20,6 +20,13 @@ If you find this code useful in your research, please cite:
     Year = {2017}
 }
 
-# General note
+    @article{ren15fasterrcnn,
+        Author = {Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun},
+        Title = {{Faster R-CNN}: Towards Real-Time Object Detection with Region Proposal Networks},
+        Journal = {arXiv preprint arXiv:1506.01497},
+        Year = {2015}
+    }
+
+### General note
 
 This code is in the process of being approved for publication by IBM legal deprtment. When approved, it will be published in this repository.
