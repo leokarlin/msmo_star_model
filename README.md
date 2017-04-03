@@ -13,18 +13,11 @@ Faster R-CNN is released under the MIT License (refer to the LICENSE file for de
 
 If you find this code useful in your research, please cite:
 
-@article{karlinsky17msmo_star,
-    Author = {Leonid Karlinsky, Joseph Shtok, Yochay Tzur, Assaf Tzadok},
-    Title = {Fine-grained recognition of thousands of object categories with single-example training},
-    Journal = {CVPR},
-    Year = {2017}
-}
-
-    @article{ren15fasterrcnn,
-        Author = {Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun},
-        Title = {{Faster R-CNN}: Towards Real-Time Object Detection with Region Proposal Networks},
-        Journal = {arXiv preprint arXiv:1506.01497},
-        Year = {2015}
+    @article{karlinsky17msmo_star,
+        Author = {Leonid Karlinsky, Joseph Shtok, Yochay Tzur, Assaf Tzadok},
+        Title = {Fine-grained recognition of thousands of object categories with single-example training},
+        Journal = {CVPR},
+        Year = {2017}
     }
 
 ### General note
